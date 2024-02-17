@@ -14,11 +14,11 @@
 
 - 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
 
-- 📫 Reach me at : **<azeemidrisi@protonmail.com>**
+- 📫 Reach me at : **<hanshat@protonmail.com>**
 
 - 📱 Connect with me : **[Linktree/hanshat](https://linktr.ee/hanshat)**
 
-- ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/hanshat)**
+- ♟️ Play chess with me : **[Lichess](https://lichess.org/@/hanshat) | [Chess.com](https://chess.com/member/hanshat)**
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
