@@ -1,12 +1,12 @@
 <!-- my-badges start -->
 <!-- my-badges end -->
 <!-- [![MasterHead] -->
-<h1 align="center">👋🏻 Hey there, I'm Azeem</h1>
-<h3 align="center"> CSE Undergrad | Aspiring SDE, Ethical Hacker & CyberSecurity Expert</h3>
+<h1 align="center">👋🏻 Hey there, I'm Hans</h1>
+<h3 align="center"> Frontend Developer | Medical, Ethical Hacker & CyberSecurity Expert</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
-        alt="azeemidrisi" /> </p>
+        alt="astra2code" /> </p>
 
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
