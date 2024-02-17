@@ -5,10 +5,10 @@
 <h3 align="center"> Frontend Developer | Medical, Ethical Hacker & CyberSecurity Expert</h3>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=azeemidrisi&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=HansHat&label=Profile%20views&color=0e75b6&style=flat"
         alt="astra2code" /> </p>
 
-<img align="right" alt="Coding" width="400" src="docs/avento.gif" />
+<img align="right" alt="Coding" width="400" src="doc/avento.gif" />
 
 - 🧑🏻‍💻 I’m currently learning **MERN** and  **Django**.
 
