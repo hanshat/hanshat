@@ -122,6 +122,9 @@
             alt="Premiere Pro" width="36" /> </a>
 </p>
 
+## GitHub Stats 🌟
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=FnrDev&theme=algolia&count-private=true&v=2">
+---
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
 <a href="https://www.buymeacoffee.com/Hanshat" target="_blank"> <kbd> <img
