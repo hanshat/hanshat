@@ -146,6 +146,6 @@
 <a href="https://www.buymeacoffee.com/Hanshat" target="_blank"> <kbd> <img
         src="docs/default-yellow.png" alt="Buy Me A Coffee"
         width="200"></a>
-<a href="https://paypal.me/Hanshat" target="_blank"> <kbd> <img
+<a href="doc/paypal-button-blue.png" target="_blank"> <kbd> <img
         src="docs/paypal-button-blue.png" alt="PayPal"
         width="148"></a>
