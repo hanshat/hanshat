@@ -12,50 +12,47 @@
 
 - 🧑🏻‍💻 I’m currently learning **MERN** and  **Django**.
 
-- 💻 I’m currently working on [**PhoneSploit Pro**](https://github.com/AzeemIdrisi/PhoneSploit-Pro) and
-[**InstaLoaderApp**](https://github.com/AzeemIdrisi/InstaLoaderApp).
-
 - 🤝🏻 I’m open to working on projects involving **Hacking**, **Linux**, **Python**, **Web Apps** etc.
 
 - 📫 Reach me at : **<azeemidrisi@protonmail.com>**
 
-- 📱 Connect with me : **[Linktree/AzeemIdrisi](https://linktr.ee/AzeemIdrisi)**
+- 📱 Connect with me : **[Linktree/hanshat](https://linktr.ee/hanshat)**
 
-- ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/lord_azeem)**
+- ♟️ Play chess with me : **[Lichess](https://lichess.org/@/Lord_Azeem) | [Chess.com](https://chess.com/member/hanshat)**
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
-        <a href="https://www.hackerrank.com/profile/azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+        <a href="https://www.hackerrank.com/profile/hanshat" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
             width="34" /></a>
-        <a href="https://leetcode.com/AzeemIdrisi/" target="_blank" rel="noreferrer"> <kbd> <img
+        <a href="https://leetcode.com/hanshat/" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
             width="34" /></a>
-        <a href="https://www.codechef.com/users/azeem_idrisi" target="_blank" rel="noreferrer"> <kbd> <img
+        <a href="https://www.codechef.com/users/hanshat" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
             width="34" /></a>
-        <a href="https://www.stackoverflow.com/users/20801729/mohd-azeem"
+        <a href="https://www.stackoverflow.com/users/20801729/hanshat"
         target="_blank" rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
             width="40" height="32" /></a>
-        <a href="https://www.dev.to/AzeemIdrisi" target="_blank"
+        <a href="https://www.dev.to/hanshat" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"
             width="40" height="32" /></a>
-                 <a href="https://www.twitter.com/Azeem_5202" target="_blank" rel="noreferrer"> <kbd> <img
+                 <a href="https://www.twitter.com/hanshatt" target="_blank" rel="noreferrer"> <kbd> <img
             src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/1a/0d/1c1a0d1f-3fa5-4644-49ac-034e84d267a0/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/460x0w.webp"
             width="34" /></a>
-        <a href="https://www.facebook.com/Azeem.5202" target="_blank"
+        <a href="https://www.facebook.com/hanshat" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
-            width="40" height="32" /></a> <a href="http://www.instagram.com/azeem_5202" target="_blank"
+            width="40" height="32" /></a> <a href="http://www.instagram.com/hanshat" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
-            width="40" height="32" /></a> <a href="https://www.linkedin.com/in/azeem5202" target="_blank"
+            width="40" height="32" /></a> <a href="https://www.linkedin.com/in/hanshat" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
             width="40" height="32" /></a>
-                <a href="https://www.youtube.com/c/MrTricksMaster" target="_blank"
+                <a href="https://www.youtube.com/c/hanshat" target="_blank"
         rel="noreferrer"> <kbd> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
             width="40" height="32" /></a>
@@ -126,35 +123,35 @@
 </p>
 
 <h3 align="left">⚙️ Projects:</h3>
-<a href="https://github.com/AzeemIdrisi/PhoneSploit-Pro"><img
+<a href="https://github.com/hanshat/PhoneSploit-Pro"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=PhoneSploit-Pro" />
 </a>
-<a href="https://github.com/AzeemIdrisi/InstaLoaderApp"><img
+<a href="https://github.com/hanshat/InstaLoaderApp"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=InstaLoaderApp" />
 </a>
-<a href="https://github.com/AzeemIdrisi/QR-Attendance-System"><img
+<a href="https://github.com/hanshat/QR-Attendance-System"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=QR-Attendance-System" />
 </a>
-<a href="https://github.com/AlphaCorpIN/Hacking-Repos"><img
+<a href="https://github.com/hanshat/Hacking-Repos"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCorpIN&repo=Hacking-Repos" />
 </a>
 
 </br>
-<a href="https://github.com/AzeemIdrisi/XeroSploit-Pro"><img
+<a href="https://github.com/hanshat/XeroSploit-Pro"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=XeroSploit-Pro" />
 </a>
-<a href="https://github.com/AzeemIdrisi/SwiftChat"><img
+<a href="https://github.com/hanshat/SwiftChat"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=SwiftChat" />
 </a>
 <details>
         <summary><h3> More Useful Repos [Click to expand]</h3></summary>
-<a href="https://github.com/AzeemIdrisi/StoreX"><img
+<a href="https://github.com/hanshat/StoreX"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=StoreX" />
 </a>
-<a href="https://github.com/AzeemIdrisi/TweetifyMusic"><img
+<a href="https://github.com/hanshat/TweetifyMusic"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=TweetifyMusic" />
 </a>
-<a href="https://github.com/AzeemIdrisi/ChatterBox"><img
+<a href="https://github.com/hanshat/ChatterBox"><img
         src="https://github-readme-stats.vercel.app/api/pin/?username=AzeemIdrisi&repo=ChatterBox" />
 </a>
 </details>
@@ -180,10 +177,10 @@
         alt="azeemidrisi" /></p>
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
-<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img
+<a href="https://www.buymeacoffee.com/hanshat" target="_blank"> <kbd> <img
         src="docs/default-yellow.png" alt="Buy Me A Coffee"
         width="200"></a>
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
+<a href="https://paypal.me/hanshat" target="_blank"> <kbd> <img
         src="docs/paypal-button-blue.png" alt="PayPal"
         width="148"></a>
 
