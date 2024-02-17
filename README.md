@@ -128,5 +128,5 @@
         src="doc/default-yellow.png" alt="Buy Me A Coffee"
         width="200"></a>
 <a href="doc/paypal-button-blue.png" target="_blank"> <kbd> <img
-        src="docs/paypal-button-blue.png" alt="PayPal"
+        src="doc/paypal-button-blue.png" alt="PayPal"
         width="148"></a>
