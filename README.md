@@ -133,10 +133,10 @@
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hanshat&show_icons=true&locale=en&layout=compact"
-        alt="hanshat" /></p>
+        alt="Hanshat" /></p>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=hanshat&show_icons=true&include_all_commits=true&locale=en"
         alt="hanshat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&"
