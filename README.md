@@ -133,14 +133,14 @@
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=azeemidrisi&show_icons=true&locale=en&layout=compact"
-        alt="azeemidrisi" /></p>
+        alt="hanshat" /></p>
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=azeemidrisi&show_icons=true&include_all_commits=true&locale=en"
-        alt="azeemidrisi" /></p>
+        alt="hanshat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemidrisi&"
-        alt="azeemidrisi" /></p>
+        alt="hanshat" /></p>
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
 <a href="https://www.buymeacoffee.com/Hanshat" target="_blank"> <kbd> <img
