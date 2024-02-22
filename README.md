@@ -1,7 +1,7 @@
 <!-- my-badges start -->
 <!-- my-badges end -->
 <!-- [![MasterHead] -->
-<h1 align="center">👋🏻 Hey there, I'm Hans</h1>
+<h1 align="center">👋🏻 Hey there, I'm Astra</h1>
 <h3 align="center"> Frontend Developer | Medical, Ethical Hacker & CyberSecurity Expert</h3>
 
 <p align="left"> <img
