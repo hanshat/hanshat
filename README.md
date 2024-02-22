@@ -123,7 +123,7 @@
 </p>
 
 ## GitHub Stats 🌟
-![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=hanshat&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=FnrDev&theme=algolia&count-private=true&v=2">
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=hanshat&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanshat&theme=algolia&count-private=true&v=2">
 ---
 
 <h3 align="left">🚀 Like my work? Support me here:</h3>
