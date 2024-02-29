@@ -2,7 +2,7 @@
 <!-- my-badges end -->
 <!-- [![MasterHead] -->
 <h1 align="center">👋🏻 Hey there, I'm Astra</h1>
-<h3 align="center"> Frontend Developer | Medical, Ethical Hacker & CyberSecurity Expert</h3>
+<h3 align="center"> Frontend Developer | Medical | Ethical Hacker | CyberSecurity Expert</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=HansHat&label=Profile%20views&color=0e75b6&style=flat"
